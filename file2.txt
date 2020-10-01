@@ -1,0 +1,1 @@
+file 2 on new branch created after first commit, now to check if this file if added on the branch woulf appear on master or not
